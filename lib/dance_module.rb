@@ -1,20 +1,20 @@
 
 def dance_module
   
-  def twirl 
+  def twirl
   end
-  
+
   def jump
   end
-  
+
 def pirouette
 end
 
 def take_a_bow
 end
 
-  
-end 
+
+end
 
 # has a #twirl method (FAILED - 1)
 # has a #jump method (FAILED - 2)
