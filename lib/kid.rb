@@ -6,7 +6,7 @@ attr_accessor :name
 def initialize(name)
   @name = name
 end
-  
+
 end
  # includes the Dance module (FAILED - 13)
  # has a name (FAILED - 14)
